@@ -1,5 +1,4 @@
 
-
 # BitRewards-XBRC
 The new Bitrewards Coin
 
@@ -13,9 +12,10 @@ PoW (Scrypt) = 5 coin / Block, fix amount
 PoS = 25% / MN = 75%, dynamic amount
 
 Port:
-nDefaultPort = 47005
 
-nRPCPort = 47006
+DefaultPort = 47005
+
+RPCPort = 47006
 
 Block Spacing = 60 secs
 
