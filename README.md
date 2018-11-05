@@ -66,70 +66,70 @@ LINUX Daemon: https://drive.google.com/open?id=1eWMPJ-kwyEFyCRx69WTYxN4koc1M5_K3
 <td>160.00 XBRC</td>
 <td>120.00 XBRC</td>
 <td>40.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>GROWTH PHASE</td>
 <td>1758355 - 3336706</td>
 <td>120.00 XBRC</td>
 <td>90.00 XBRC</td>
 <td>30.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>STABILITY PHASE</td>
 <td>3336707 - 4915058</td>
 <td>100.00 XBRC</td>
 <td>75.00 XBRC</td>
 <td>25.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>MATURITY PHASE</td>
 <td>4915059 - 6493410</td>
 <td>80.00 XBRC</td>
 <td>60.00 XBRC</td>
 <td>20.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>EXPANSION PHASE 1</td>
 <td>6493411 - 8071762</td>
 <td>70.00 XBRC</td>
 <td>52.50 XBRC</td>
 <td>17.5 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>EXPANSION PHASE 2</td>
 <td>8071763 - 9650114</td>
 <td>60.00 XBRC</td>
 <td>45.00 XBRC</td>
 <td>15.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>EXPANSION PHASE 3</td>
 <td>9650115 - 11228466</td>
 <td>40.00 XBRC</td>
 <td>30.00 XBRC</td>
 <td>10.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>UBIQUITY PHASE 1</td>
 <td>11228467 - 12806818</td>
 <td>30.00 XBRC</td>
 <td>22.50 XBRC</td>
 <td>7.50 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>UBIQUITY PHASE 2</td>
 <td>12806819 - 14385170</td>
 <td>20.00 XBRC</td>
 <td>15.00 XBRC</td>
 <td>5.00 XBRC</td>
-<td>3 YEARS</td>
+<td>2.5 YEARS</td>
 </tr><tr>
 <td>UBIQUITY PHASE 3</td>
 <td>14385171 - 16067701</td>
 <td>10.00 XBRC</td>
 <td>7.50 XBRC</td>
 <td>2.50 XBRC</td>
-<td>3.2 YEARS</td>
+<td>3 YEARS</td>
 </tr></tbody></table>
 
 
