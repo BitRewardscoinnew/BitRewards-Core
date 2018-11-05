@@ -8,9 +8,16 @@ BITREWARDS (XBRC) development tree
 
 PoW/PoS/MN Cryptocurrency
 
-PoW = 5 coin / Block, fix amount
+PoW (Scrypt) = 5 coin / Block, fix amount
 
 PoS = 25% / MN = 75%, dynamic amount
+
+Port:
+nDefaultPort = 47005
+
+nRPCPort = 47006
+
+Block Spacing = 60 secs
 
 Download Wallet here:
 
