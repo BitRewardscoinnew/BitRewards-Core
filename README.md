@@ -24,7 +24,7 @@ LINUX Daemon: https://drive.google.com/open?id=1eWMPJ-kwyEFyCRx69WTYxN4koc1M5_K3
 <tr><td><strong>BLOCK TIME</strong></td><td>60 SECONDS</td></tr>
 <tr><td><strong>STAKE MIN AGE</strong></td><td>1 HOUR</td></tr>
 <tr><td><strong>REWARDS</strong></td><td>75% MASTERNODE<br>25% STAKING</td></tr>
-<tr><td><strong>PORTS</strong></td><td>42055 P2P Port<br>42066 RPC Port</td></tr>
+<tr><td><strong>PORTS</strong></td><td>42055 P2P Port<br>42056 RPC Port</td></tr>
 </tbody>
 </table>
 
