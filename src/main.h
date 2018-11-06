@@ -27,9 +27,10 @@ static const int64_t DARKSEND_POOL_MAX = (599999.99*COIN);
 static const int64_t STATIC_POS_REWARD = 0 * COIN;
 static const int64_t TARGET_SPACING = 90;
 
+ 
 inline int GetTargetSpacing(int Height=nBestHeight, bool fProofOfStake=false)
 {
-    if (Height <= 45001) {
+    if (Height <= 2001) {
         return TARGET_SPACING;
     }
     else {
@@ -51,7 +52,7 @@ class CReserveKey;
 class CWallet;
 
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
-static const unsigned int MAX_BLOCK_SIZE = 40000000;
+static const unsigned int MAX_BLOCK_SIZE = 85673194; //85 MB BLOCKS
 /** The maximum size for mined blocks */
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
 /** Default for -blockprioritysize, maximum space for zero/low-fee transactions **/
@@ -69,7 +70,7 @@ static const unsigned int MAX_ORPHAN_TRANSACTIONS = MAX_BLOCK_SIZE/100;
 /** Default for -maxorphanblocks, maximum number of orphan blocks kept in memory */
 static const unsigned int DEFAULT_MAX_ORPHAN_BLOCKS = 750;
 /** Fees smaller than this (in satoshi) are considered zero fee (for transaction creation) */
-static const int64_t MIN_TX_FEE = 1000;
+static const int64_t MIN_TX_FEE = 10000;
 /** Fees smaller than this (in satoshi) are considered zero fee (for relaying) */
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 /** No amount larger than this (in satoshi) is valid */

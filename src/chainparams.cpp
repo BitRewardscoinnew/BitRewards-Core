@@ -65,8 +65,8 @@ public:
        // vAlertPubKey = ParseHex("0424d4d59ad30c33510d2597aef881965e079ca1d42778199bb20ac40f1a19e7e28db32422464e51c35fc41672f2d64ff5aba85f573fefc351515d5b3b4e6143ee");
 				
 	
-        nDefaultPort = 47005;
-        nRPCPort = 47006;
+        nDefaultPort = 42055;
+        nRPCPort = 42056;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 16);
 
         const char* pszTimestamp = "https://www.cnbc.com/2018/10/25/if-you-put-1000-dollars-in-bitcoin-5-years-ago-heres-what-youd-have-now.html - Crypt0N1nj4";
