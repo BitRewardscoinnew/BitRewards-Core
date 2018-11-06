@@ -19,12 +19,12 @@ LINUX Daemon: https://drive.google.com/open?id=1eWMPJ-kwyEFyCRx69WTYxN4koc1M5_K3
 <tr><td><strong>TYPE</strong></td><td>POW / POS / MN</td></tr>
 <tr><td><strong>POW FIXED REWARD</strong></td><td>5 XBRC</td></tr>
 <tr><td><strong>TOTAL SUPPLY</strong></td><td>1,500,000,000 XBRC</td></tr>
-<tr><td><strong>COLLATERAL</strong></td><td>250,000 XBRC</td></tr>
+<tr><td><strong>MN COLLATERAL</strong></td><td>250,000 XBRC</td></tr>
 <tr><td><strong>AVERAGE BLOCKS PER DAY</strong></td><td>1 440</td></tr>
 <tr><td><strong>BLOCK TIME</strong></td><td>60 SECONDS</td></tr>
 <tr><td><strong>STAKE MIN AGE</strong></td><td>1 HOUR</td></tr>
 <tr><td><strong>REWARDS</strong></td><td>75% MASTERNODE<br>25% STAKING</td></tr>
-<tr><td><strong>PORTS</strong></td><td>47005 P2P Port<br>47006 RPC Port</td></tr>
+<tr><td><strong>PORTS</strong></td><td>42055 P2P Port<br>42066 RPC Port</td></tr>
 </tbody>
 </table>
 
@@ -34,14 +34,14 @@ LINUX Daemon: https://drive.google.com/open?id=1eWMPJ-kwyEFyCRx69WTYxN4koc1M5_K3
 <tr><th>PHASE</th><th>BLOCK</th><th>REWARD PER BLOCK</th><th>MASTERNODE REWARD</th><th>STAKING REWARD</th><th>ESTIMATE TIME FRAME</th></tr>
 <tr>
 <td>PREMINE</td>
-<td>0 - 0</td>
+<td>0 - 40</td>
 <td>400 000 000.00 XBRC</td>
 <td>0.00 XBRC</td>
 <td>0.00 XBRC</td>
-<td>1 MINUTE</td>
+<td>45 MINUTES</td>
 </tr><tr>
 <td>SWAP PHASE 1</td>
-<td>1 - 45000</td>
+<td>41 - 45000</td>
 <td>20.00 XBRC</td>
 <td>15.00 XBRC</td>
 <td>5.00 XBRC</td>
