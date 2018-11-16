@@ -22,7 +22,7 @@ LINUX Daemon: https://drive.google.com/open?id=1eWMPJ-kwyEFyCRx69WTYxN4koc1M5_K3
 <tr><td><strong>INITIAL SUPPLY</strong></td><td>400,000,000 XBRC</td></tr>
 <tr><td><strong>MN COLLATERAL</strong></td><td>250,000 XBRC</td></tr>
 <tr><td><strong>AVERAGE BLOCKS PER DAY</strong></td><td>2 600</td></tr>
-<tr><td><strong>BLOCK TIME</strong></td><td>30 SECONDS</td></tr>
+<tr><td><strong>BLOCK TIME</strong></td><td>30 - 60 SECONDS</td></tr>
 <tr><td><strong>STAKE MIN AGE</strong></td><td>1 HOUR</td></tr>
 <tr><td><strong>REWARDS</strong></td><td>75% MASTERNODE<br>25% STAKING</td></tr>
 <tr><td><strong>PORTS</strong></td><td>42055 P2P Port<br>42056 RPC Port</td></tr>
